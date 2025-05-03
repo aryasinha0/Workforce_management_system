@@ -25,7 +25,7 @@ def init_api(app):
     api.add_resource(AttendanceResource, '/installer/attendance')
     api.add_resource(TrackingResource, '/installer/tracking')
     api.add_resource(FaultyMeterResource, '/installer/faulty-meter')
-    api.add_resource(AdverseConditionResource, '/installer/adverse-condition')
+    api.add_resource(AdverseConditionResource, '/installer/adverse-condition') 
 
     # Supervisor endpoints
     api.add_resource(SupervisorInstallersResource, '/supervisor/installers')
