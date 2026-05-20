@@ -1,4 +1,4 @@
-# ManPowerHandling_Gujarat
+# ManPowerHandling
 This is the project for Man Power Management, useful in meter-installation supervision.
 
 For running the backend project
